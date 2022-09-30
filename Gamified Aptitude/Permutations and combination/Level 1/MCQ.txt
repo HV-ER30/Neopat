@@ -1,0 +1,289 @@
+Question No: 1
+There are 150 members in a table-tennis club. 
+They are playing a tournament such that a member is out of the tournament if he loses a game. If we know that there were no ties, then the number of games to determine the champion will be?
+ - 75
+ - 150
+ - 74
+ - 149
+Answer : 149
+Justification :
+- 149 (150 – 1) games,since all but one lose one game.
+- To make it simpler, assume there are 3 members. 
+- Only 2 games need to be played to determine the champion.
+
+Question No: 2
+A man has six friends, in how many ways can he invite one or more of them to a party?
+- 48
+- 63
+- 6!
+- 64
+Answer : 63
+Justification :
+The man has to select some or all of his 6 friends.
+- The number ways to do the same is given by 
+      ⁶C₁ + ⁶C₂ + ⁶C₃ + ⁶C₄ + ⁶C₅ +⁶C₆ = 2⁶ - 1 = 63 
+
+Question No: 3
+A palindrome is a number that reads the same left to right as it does form right to left, such as 131. How many six-digit palindromes are there which are even?
+- 400
+- 360
+- 512
+- 432
+Answer : 400
+Justification :
+- Palindrome 6 digit even number can be formed by using only three digits
+- Unit digits can be filled by using 2,4,6,8 digits only
+- Number of ways = 4C1 = 4 ways
+- Remaining 2 places can be filled by any one of the digits = 10C1 x 10C1 = 100
+- Total = 400 ways
+
+Question No: 4
+In how many ways can 4 Indians and 4 Nepalese people be seated around a round table such that no two Indians are in adjacent positions?
+- 524
+- 324
+- 144
+- 120
+Answer : 120
+Justification :
+- We want to determine the number of ways in which 4 Indians and 4 Nepalese people can be seated around a round table so that no two Indians are in adjacent positions.
+- Let the 4 Indians sit around the table first. Place four chairs around the table for this purpose.
+- Since the positions around the table are not numbered, it does not matter on which chair the first person sits. 
+- The second person then has a choice of 3 chairs, the third person has a choice of 2 chairs and the fourth person sits on the remaining chair.
+- Hence the number of ways the 4 Indians can sit around the table is 3!.
+- Since no two Indians are to be in adjacent positions, the 4 Nepalese have to sit in such a way that there is at least one Nepalese between two Indians. 
+- Since there are only 4 Nepalese and exactly 4 places to be filled between the four Indians, the number of ways in which the Nepalese can be seated is 4!.
+- Hence the total number of ways in which 4 Indians and 4 Nepalese people can be seated around a round table so that no two Indians are in adjacent positions is 3!×4!=6×24=144.
+
+Question No: 5
+In how many different ways can 8 examination papers be arranged in a row, so that the best and the worst papers may never come together?
+- 10080
+- 40520
+- 40320
+- 30240
+Answer : 30240
+Justification :
+- Total number of arrangements when best and worst papers are together = 7! X 2! = 10080
+- Total number of way in which the 8 papers can be arranged = 8! = 40320
+- Therefore, the number of arrangements in which best and worst papers are not together 
+                      = 40320 – 10080 = 30240
+
+Question No: 6
+Given 3 different red dyes, 4 different blue dyes, and 5 different green dyes, how many combinations of dyes can be made taking at least one green and one blue dye?
+- 4270
+- 3890
+- 3500
+- 3720
+Answer : 3720 
+Justification :
+Solution 1 :
+- At least 1 green dye can be selected out of 5 green dyes in (25 – 1) i.e. 31 ways. 
+- Similarly, at least one blue dye can be selected out of 4 in (24 - 1) i.e. 
+- 15 ways and at least 1 red or no red dye can be selected out of 3 red dyes in 23 i.e. 8 ways. 
+- Hence the required number of ways = 31 x 15 x 8 = 3720. 
+Solution 2 :
+Green dyes =5
+Blue dyes =4
+Red dyes =3
+The no of ways of choosing of at least one green and one blue is =(25−1)×(24−1)×23⇒(32−1)×(16−1)×8⇒31×15×8⇒3720
+
+Question No: 7
+There are 6 books on Physics, 3 on Chemistry and 4 on Biology. In how many ways can these be placed on a shelf if the books on the same subject are to be together?
+- 10!
+- 6!
+- 13!
+- 622080
+Answer : 622080
+Justification :
+- All the 6 Physics books can be mutually arranged in 6! Ways. 
+- Similarly, 3 books on Chemistry and 4 books on Biology can be arranged in 3! and 4! ways respectively. 
+- Besides it the three sets of physics, Chemistry and Biology also can be arranged in 3! ways. 
+- Three shelf's can be arranged in 3! ways 
+- Required number of permutations = 3! X 6! X 3! X 4! = 622080. 
+
+Question No: 8
+How many four digit numbers greater than 5000 can be formed with the digits, 3, 5, 7, 8, 9 no digit being repeated?
+- 72
+- 64
+- 124
+- 216
+- 148
+Answer : 72 
+Justification :
+- To form a number greater than 5000, the thousands place must be filled with 5 (or) 6 (or) 7. = 3 ways.
+- After filling the thousands place we are left with 4 numbers(because repetition is not allowed) = 4 ways.
+- After filling the hundreds place we are left with 3 numbers for 10's place = 3 ways.
+- After filling the 10 place with 3 numbers we are left with 2 numbers = 2 ways.
+- Total Numbers formed = 3 * 4 * 3 * 2
+                   = 72 ways.
+
+Question No: 9
+In how many ways can the 7 letters M, N, O, P, Q, R, S be arranged so that P and Q occupy continuous positions?
+- 1240
+- 1400
+- 1340
+- 1440
+Answer : 1440
+Justification :
+Solution 1 :
+- (PQ)MNORS
+- 6!*2!
+- Since PQ always together 1440
+Solution 2:
+- The sequence PQ can occupy 6 different positions . 
+- The remaining characters can occupy 5! positions
+- So, for the sequence PQ there are 6× 5! = 6! arrangements
+- Now, similarly ,
+- For the sequence QP can occupy 6 different positions . The remaining characters can occupy 5! positions
+- Therefore , there are again 6! arrangements
+- So , The total number of arrangements is 2 × 6! = 1440
+
+Question No: 10
+Sheela can choose to go for a party with Yogesh, Nikhilesh, Shashank, Amol, Shainu, Vivek, Girish. She has 10 pairs of sandals and 17 different dresses. In how many different ways she will go to the party if she has a choice of taking 5 of her friends. Also she likes 7 pair of sandals and 15 dresses which she wants to wear for the party?
+- 2205
+- 10! x 17!
+- 2400
+- 1200
+Answer : 2205
+Justification :
+Number of combinations are ⁷C₅ x 15C1 x 7C1 = 2205
+
+Question No: 11
+A college schedules lectures of 9 professors. 3 professors every day, till all possible combinations are exhausted. If no combination of professors is ever repeated on any day, then how many days will each of professor have to come?
+- 252
+- 28
+- 84
+- 96
+Answer : 28
+Justification :
+- If one professor is fixed, then 
+  The two other professors for that day can be selected from the remaining 8 professors in 8C2 = 28 ways. 
+- Hence, a each professor has to come for 28 days.
+
+Question No: 12
+Three villages A, B and C lie on a highway. There are 10 more routes connecting A and B, 8 more route connecting B and C, 5 more routes connecting A and C. If B is in between A and C, in how many ways can one go from B to C? 
+- 52
+- 44
+- 64
+- 24
+Answer : 64
+- There are 8 indirect roads from B to C and 1 direct road
+  i.e…, highway from B to C. Also, one can go from B to A and then to C.
+- There are 10 + 1 indirect and direct roads from B to A and then 5 roads from A to C.
+- This can be done in 11 x 5 = 55 ways.  
+- In all one can go 55 + 8 + 1 = 64 ways.
+
+Question No: 13
+In how many ways 5 Indians and 4 Americans be seated around the table, if both sit together?
+- 8!-(5! * 4!)
+- 1080
+- 9!
+- 4! X 5!
+Answer : 4! x 5!
+Justification :
+- Since there is no restriction on Indians, we arrange the 5 Indians around a table in (5 – 1)! = 4!, Ways. 
+- If the American sit at the places indicated by ‘x’ then no two American will sit together.
+- Now there are 5 places for 4 Americans.4 Americans can be seated in 5P4 ways. 
+- Required number = 4! X 5P4 = 4! X 5! 
+
+Question No: 14r
+In how many ways can the letters of the word ASSASSINATION be arranged so that all the S's are together??
+- 151200
+- 1080000
+- 1201200
+- 110000
+Answer : 151200
+Justification :
+- Considering all the S' together we get AAANNIITO(SSSS)
+- The above alphabets in which repetition of A is 3 times, N is 2 times and I is 2 times,can be arranged in 
+  where all the S' remain as a pack.
+  =>151200 ways
+
+Question No: 15
+In how many ways can 5 prizes be given away to 4 boys, when each boy is eligible for all the prizes?
+- 1024
+- 512
+- 5!
+- 4!
+Answer : 1024
+Justification :
+Solution 1:
+- First prize can be given away to 4 boys in 4 ways
+- Similarly second, third, fourth and fifth prizes can also be given away to four boys in 4 ways.
+- Hence the required number of ways in which all the 5 prizes can be given away to 4 boys.= 4 x 4 x 4 x 4 x 4 = 1024. 
+Solution 2:
+- Direct formula (nr) = 4x5
+- 1024
+
+Question No: 16
+In how many ways can 3 integers be selected from the set {1, 2, 3, ….., 37} such that the sum of the 3 integers is an odd number?
+- 36!
+- 3786
+- 3876
+- 4786
+Answer : 3876
+- There are 18 even and 19 odd numbers in the given set.
+- For odd sum either all the 3 numbers should be odd or 2 of them even and one odd.
+- This is possible in 19C3 + (18C2 x 19C1) = 3876. 
+
+Question No: 17
+In how many ways three different rings can be worn in four fingers with at most one in each finger?
+- 32
+- 24
+- 12
+- 8
+Answer : 12
+Justification :
+Solution 1 :
+- Since we cannot wear more than one ring in any finger means repetition is not allowed. 
+- Hence, the first ring can be worn in any of the available 4 fingers in 4 ways and second ring can be worn in any of the remaining 3 fingers in 3 ways and third ring can be worn in any of the remaining 2 fingers in 2 ways. 
+- So the required number of ways in which all the 3 rings can be worn in 4 fingers = 4 x 3 x 2 = 24. 
+Solution 2:
+- F1 F2 F3 F4
+- R1 4 choices
+- R2 3 choice
+- R3 2 choices 4*3*2=24
+
+Question No: 18
+In how many ways 6 rings of different types can be worn in 3 fingers?
+- 850
+- 700
+- 729
+- 500
+Answer : 729
+Justification : 
+- The first ring can be worn in any of the finger (3 ways)
+- Similarly, each of the 5 fingers can be worn in 5 ways
+- Hence, the total number of ways is 3x3x3x3x3x3 = 729
+
+Question No: 19
+A gentleman has 6 friends to invite for a party. In how many ways can he send invitation cards to them if he has three servants to carry the cards?
+- 343
+- 216
+- 729
+- 512
+Answer : 512
+Justification :
+Solution 1:
+- Total number of ways = 3⁶ = 729.
+Solution 2:
+- For one friend he has 3 servants to send the card.
+- This implies that,
+  For one person, he can send it by 3 ways.
+- So for 6 persons he can send it by : 3 × 3 × 3 × 3 × 3 × 3 = 3⁶ ways
+- So he can send the invitation by 729 ways.
+
+Question No: 20
+How many odd integers from 1000 to 8000 (inclusive) have distinct digits?
+- 1344
+- 56
+- 1736
+- 392
+Answer : 1736
+Justification :
+-For a number to be odd the unit digit should be either 1 ,3 , 5 , 7 , 9
+- Thousands place cannot be filled with 8 or 9
+- For units digit when it is filled with 9 the thousands place can be filled in 7 ways namely any digit from 1 to 7 and the remaining two places can be filled in 8 ×7 =56 ways
+- So, the total number formed in this way 56×7= 392
+- Now if units place is filled with any of the four digits 1,3,5 or 7 , the thousands place can be filled in 6 ways( zero will be excluded) and the remaining two places can be filled in 8 × 7 = 56
+- So, the total number formed in this way 56×6×4= 1344
+- Hence, total numbers are 392+1344 =1736

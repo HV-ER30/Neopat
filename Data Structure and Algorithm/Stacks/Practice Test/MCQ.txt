@@ -1,0 +1,108 @@
+1. Which of the following is an application of Stack data structures?
+    - Managing function calls
+    - The stock span problem
+    - Arithmetic expression value
+    - All of the above
+
+Ans : Managing function calls
+
+
+2. The prefix form of an infix expression p+q-r*t is
+    - +pq-*rt
+    - -+pqr*t
+    - -+pq*rt
+    - -+*pqrt
+
+Ans : -+pq*rt
+
+
+3. Stack data structure cannot be used for 
+    - Implementation of reccursive function
+    - Allocation and scheduling of resources
+    - Reversing a string 
+    - Evaluating a postfix expression
+
+Ans : Evaluating a postfix expression
+
+
+4. Which of the following is the top pointer variable of a stack in its linked representation?
+    - Start pointer
+    - Begin pointer
+    - First pointer
+    - Top pointer
+
+Ans : Start pointer
+
+
+5. In which data structure element is inserted at one end called Rear and Deleted at other end called Front
+    - Stack
+    - Queue
+    - Binary tree
+    - Linked List
+
+Ans : Queue
+
+
+6. Which of the array element will return the top of the stack element for a stack of size N elements.
+    - S[N-1]
+    - S[N]
+    - S[N-2]
+    - S[N+1]
+
+Ans : S[N-1]
+
+
+7. Consider the following operation performed on a stack of size 5.
+Push(1)
+Pop()
+Push(2)
+Push(3)
+Pop()
+Push(4)
+Pop()
+Pop()
+Push(5)
+After the completion of all operations, the number of element present in the stack are
+    - 0
+    - 1
+    - 2
+    - 3
+
+Ans : 1
+
+
+8. The postfix form of expression (A+B)*(C*D-E)F/G is 
+    - AB+CD*E-FG/*
+    - AB+CD*E-F**G
+    - AB+CD*E-*F*G
+    - AB+CDE*-*F*G 
+
+Ans : AB+CD*E-FG/*
+
+
+9. Which of the following is true about linked lists Implementation of stack?
+    - In a push operation, if new nodes are inserted at the begining of the list, the in pop operation, nodes must remove from the end.
+    - In a push operation, if new nodes are inserted at the end of the list, nodes must be removed from the begining.
+    - Both of these
+    - None of these
+
+Ans : In a push operation, if new nodes are inserted at the begining of the list, the in pop operation, nodes must remove from the end.
+
+
+10. The best data structure to check whether an arithmetic expression has a balanced paranthesis is a 
+    - Stack
+    - Queue
+    - Linked list
+    - Tree
+
+Ans : Stack 
+
+
+11. Which of the following real world scenarios would you assosiate with a stack data structure ?
+    - Piling up of chairs one above the other.
+    - People standing in a line to a serviced at a counter.
+    - Offer services based on priority of the customer
+    - All of the above.
+
+Ans : Piling up of chairs one above the other.
+
