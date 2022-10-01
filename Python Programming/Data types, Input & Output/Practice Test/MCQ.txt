@@ -1,0 +1,193 @@
+Question No: 1
+Which of the following is incorrect?
+ - float(‘inf’)
+ - float(‘nan’)
+ - float(’56’+’78’)
+ - float(’12+34′)
+Answer : float('12+34')
+
+Question No: 2
+Fill the code in order to get the following output.
+a = 8+4j
+print(a, "is complex number?", __________)
+Output:
+(8+4j) is complex number? True
+ - istype(a,complex)
+ - isinstance(a,complex)
+ - a.isinstance(complex)
+Answer : a.isinstance(complex)
+
+Question No: 3
+Predict the output of the following code.
+ - 5
+ - 4
+ - 3
+ - 2
+Answer : 4
+
+Question No: 4
+Fill the code in order to get the following output
+Output:
+Octal Value: 017
+Hexadecimal Value: 0xf 
+ - 1) oct(x)
+ - 2) hex(x)
+
+ - 1) octal(x)
+ - 2) hexdecimal(x)
+
+ - 1) Octal(x)
+ - 2) Hexdecimal(x)
+
+ - 1) ot(x)
+ - 2) hx(x)
+Answer :  
+- 1) octal(x)
+- 2) hexdecimal(x)
+
+Question No: 5
+What is the result of round(0.5) – round(-0.5)?
+ - 1.0
+ - 2.0
+ - 0.0
+ - None of the mentioned
+Answer : 1.0
+
+Question No: 6
+Predict the output of the following code.
+print(r"The\n \nation")
+ - The
+  \nation
+ - The\n \nation
+ - Error
+ - The
+   ation
+Asnwer : The\n \nation
+
+Question No: 7
+In which datatype does the console takes input, by default.
+ - integer
+ - float
+ - string
+ - complex
+Answer : string
+
+Question No: 8
+What error occurs when you execute the following Python code snippet?
+ - SyntaxError
+ - NameError
+ - ValueError
+ - TypeError
+Answer : NameError
+
+Question No: 9
+What does ~~~~~~5 evaluate to?
+ - +5
+ - -11
+ - +11
+ - -5
+Answer : +5
+
+Question No: 10
+Which of the following is incorrect?
+ - x = 0b101
+ - x = 0x4f5
+ - x = 19023
+ - x = 03964
+Answer : x = 03964 
+
+Question No: 11
+What is the type of inf?
+ - Boolean
+ - Integer
+ - Float
+ - Complex
+Asnwer : Float 
+
+Question No: 12
+Which of the following symbols are used for comments in Python?
+ - //
+ - "
+ - /**/
+ - #
+Answer : #
+
+Question No: 13
+Given a function that does not return any value, What value is thrown by default when executed in shell.
+ - int
+ - bool
+ - void
+ - None
+ Answer : None 
+
+Question No: 14
+Which of these in not a core data type?
+ - Lists
+ - Dictionary
+ - Tuples
+ - Class
+Answer : Class 
+
+Question No: 15
+What are all the type castings possible in Python?
+1)integer to string
+2)float to string
+3)string to float
+4)float to complex
+ - 3,4
+ - 1,2,3,4
+ - 2,3,4
+ - 1,2,4
+Answer : 1,2,4
+
+Question No: 16
+Mathematical operations can be performed on a string. State whether true or false. 
+ - True
+ - False
+Answer : False
+
+Question No: 17
+Fill the code in order to get the following output.
+Output:
+Charcter : P
+Code : 
+n=80
+print("Character :",____________)
+ - chr(n)
+ - char(n)
+ - Ch(n)
+ - n.chr()
+Answer : chr(n)
+
+Question No: 18
+Which of the following is not a complex number?
+ - k = 2 + 3j
+ - k = complex(2, 3)
+ - k = 2 + 3l
+ - k = 2 + 3J
+
+Question No: 19
+Predict the output of the following code.
+Code : 
+a=20
+print(a*5)
+ - 100
+ - 2020202020
+ - 20
+   20
+   20
+   20
+   20
+ - Error
+Answer : 2020202020
+
+Question No: 20
+Fill the code in order to get the following Output
+Output:
+Real part: 5
+Imaginary part: 6
+ - %(k.real,k.imag)
+ - %(real,imag)
+ - %(k.real,k.imag)
+ - %(k.real,k.imagine)
+Answer : %(k.real,k.imagine)

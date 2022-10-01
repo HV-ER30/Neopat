@@ -1,0 +1,78 @@
+Question No : 2
+Which of the following are Python reserved words (keywords):
+ - default
+ - and
+ - printf
+ - goto
+Answer : and 
+
+Question No: 2
+Why are local variable names beginning with an underscore discouraged?
+ - they are used to indicate a private variables of a class
+ - they confuse the interpreter
+ - they are used to indicate global variables
+ - they slow down execution
+
+Question No: 3
+Which of the following is true for variable names in Python?
+ - unlimited length
+ - all private members must have leading and trailing underscores
+ - underscore and ampersand are the only two special characters allowed
+ - none of the mentioned
+Answer : None of the mentioned
+
+Question No: 4
+All keywords in Python are in
+ - lower case
+ - UPPER CASE
+ - Capitalized
+ - None of the mentioned
+Answer : None of the mentioned
+
+Question No: 5
+A. All the keywords are variables.
+B. All the variables are keywords.
+ - A is true and B is false
+ - A is false and B is true
+ - Both are false
+ - Both are true
+Answer : Both are true
+
+Question No: 6
+"ord", can be used as a Variable name.
+ - True
+ - False
+Answer : True
+
+Question No: 7
+Is Python case sensitive when dealing with identifiers?
+ - yes
+ - no
+ - machine dependent
+ - none of the mentioned
+Answer : yes
+
+Question No: 8
+Which of the following is an invalid variable?
+ - my_string_1
+ - 1st_string
+ - foo
+ - _
+Answer : 1st_string
+
+Question No: 9
+Does the following code hits an error or not?
+  _ = 6
+  print(_)
+ - Error
+ - Not an Error
+Answer : Not an error
+
+Question No: 10
+What is the maximum possible length of an identifier?
+ - 31 characters
+ - 63 characters
+ - 79 characters
+ - none of the mentioned
+Answer : 79 characters
+

@@ -1,0 +1,175 @@
+1. Which of the following can be used as variable name.
+   -  int
+   - float
+   - eval
+   - All of the above
+
+Answer : All of the above
+
+
+2. Predict the ouput of the following code:
+   int = 10
+   print(int)
+    - Name Error
+    - 10
+    - Type Error
+    - -9
+
+Answer : 10
+
+
+3. What is a keyword really mean?
+    - Reserved words
+    - Object name
+    - Class name
+    - None of the above
+
+Answer : Reserved words
+
+
+4. How many keywords are there in python?
+    - 30
+    - 31
+    - 32
+    - 33
+
+Answer : 33
+
+
+5. Which of these is a keyword?
+    - assert
+    - in
+    - as
+    - All of the above
+
+Answer : All of the above
+
+
+6. You are reading Python code, and these statements appear scattered in different locations throughout the code :
+    studentid = 15
+    StudentId = 15
+    studentId = 15
+    - These statement refer to different variables
+    - These statement refers to same variables
+
+Answer : These statement refer to different variables
+
+
+7. Which of the following is a keyword?
+    - eval
+    - assert
+    - nonlocal
+    - pass 
+
+Answer : eval
+
+
+8. Which of the following is a valid variable?
+    - var@
+    - 33var
+    - ab_b_c
+    - Class
+
+Answer : ab_b_c
+
+
+9. Which among the following is not a keyword ?
+    - float
+    - return
+    - pass
+    - Del 
+
+Answer : float
+
+
+10. How do you create a variable b that is equal to 5 ?
+    - var b = 5
+    - b = 5
+    - int b = 5
+    - integer b = 5
+
+Answer : b = 5
+
+
+11. "pass" can be used as a variable name.
+    - true
+    - False
+
+Answer : False
+
+
+12. Which are all the special characters that cannot be used in variable.
+    - %
+    - #
+    - &
+    - All of the above
+
+Answer : All of the above
+
+
+13. Which of the following is invalid ?
+    - _a = 1
+    - __a = 1
+    - __str__ = 1
+    - None of the mentioned
+
+Answer : None of the mentioned
+
+
+14. "Pass" can be used as a variable name
+    - True 
+    - False
+
+Answer : True
+
+
+15. "eval" can be used as a variable name . 
+    - True
+    - False
+
+Answer : True
+
+
+16. State whether the following statement is true or false.
+    All the datatype names can be used as variable name also.
+    - True 
+    - False
+
+Asnwer : True
+
+
+17. Select the reserved keyword in Python
+    - raise
+    - import
+    - else 
+    - All of the above 
+
+Answer : All of the above
+
+
+18. Which among of the following can be a variable name.
+    - eval
+    - lambda
+    - yield
+    - pass
+
+Answer : eval
+
+
+19. Which among the following cannot be used as a variable name.
+    - int
+    - float
+    - eval
+    - None of the above
+
+Answer : None of the above
+
+20. Which of the following is an invalid statement?
+    - abc = 100000
+    - a b c = 1000 2000 3000
+    - a_b_c = 10000
+    - a,b,c = 1000,2000,3000
+
+Answer : a b c = 1000 2000 3000
+
+

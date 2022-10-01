@@ -1,0 +1,110 @@
+Question No: 1
+Predict the output of the following code.
+Code :
+a="a"
+print(a*5)
+ - 485
+ - aaaaa
+ - a
+   a
+   a
+   a
+   a
+ - Error
+Answer : aaaaa
+
+Question No: 2
+How would you express the hexadecimal value a5 as a base-16 integer constant in Python?
+ - 0xa5
+ - 00xa5
+ - a5x00
+ - hxa5
+Answer : 0xa5 
+
+Question No: 3
+Fill the code in order to get the following output.
+Output:
+ASCII value: 66 
+x='B'
+print("ASCII value:",___________)
+ - ord(x)
+ - num(x)
+ - asc(x)
+ - ascii(x)
+ Answer : ascii(x)
+
+Question No: 4
+Predict the output of the following code.
+Code : 
+print("The \nation")
+ - The \nation
+ - The
+   nation
+ - The
+   ation
+ - Error
+Answer : The
+         ation
+
+Question No: 5
+In Python 3, the maximum value for an integer is 2^63 - 1:
+ - True
+ - False
+Answer : True
+
+Question No: 6
+Predict the output of the following code.
+Code :
+print("the qwerty \0 keyboard")
+ - the qwerty \0 keyboard
+ - the qwerty \0
+ - keyboard
+ - the qwerty
+Answer : the qwerty
+
+
+Question No: 7
+Fill the code in order to get the following Output
+Output:
+Binary number: 0b1010
+ - bin(x)
+ - binary(x)
+ - 0b(bin(x))
+ - x.bin()
+Answer : bin(x)
+
+Question No: 8
+How will you print the following string in Python.
+Output:
+ The \nation
+ - print(raw"The \nation")
+ - print(r,"The \nation")
+ - print("The \nation")
+ - print("The \nation")
+Answer : print("The \nation")
+
+Question No: 9
+Fill the code in order to get the following output.
+Output:
+Complex Number: (10+0j) 
+Code :
+x=10
+print("Complex Number:",______________ )
+ - complex(x)
+ - complex(x,None)
+ - complx(x,0)
+ - complx(x)
+Answer : complex(x)
+
+Question No: 10]
+Fill the following blank to get the following output.
+Output:
+20.00
+Code :
+a=20.00
+(____________)
+ - print("%.2f" %a)
+ - print("%.2f" ,%a)
+ - print(round(a,2))
+ - print(format(a,.2f))
+Answer : print("%.2f" %a)

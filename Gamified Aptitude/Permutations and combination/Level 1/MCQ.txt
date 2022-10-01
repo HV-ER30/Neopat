@@ -138,7 +138,10 @@ Solution 2:
 - So , The total number of arrangements is 2 × 6! = 1440
 
 Question No: 10
-Sheela can choose to go for a party with Yogesh, Nikhilesh, Shashank, Amol, Shainu, Vivek, Girish. She has 10 pairs of sandals and 17 different dresses. In how many different ways she will go to the party if she has a choice of taking 5 of her friends. Also she likes 7 pair of sandals and 15 dresses which she wants to wear for the party?
+Sheela can choose to go for a party with Yogesh, Nikhilesh, Shashank, Amol, Shainu, Vivek, Girish. 
+She has 10 pairs of sandals and 17 different dresses.
+In how many different ways she will go to the party if she has a choice of taking 5 of her friends. 
+Also she likes 7 pair of sandals and 15 dresses which she wants to wear for the party?
 - 2205
 - 10! x 17!
 - 2400
@@ -160,7 +163,9 @@ Justification :
 - Hence, a each professor has to come for 28 days.
 
 Question No: 12
-Three villages A, B and C lie on a highway. There are 10 more routes connecting A and B, 8 more route connecting B and C, 5 more routes connecting A and C. If B is in between A and C, in how many ways can one go from B to C? 
+Three villages A, B and C lie on a highway. 
+There are 10 more routes connecting A and B, 8 more route connecting B and C, 5 more routes connecting A and C.
+If B is in between A and C, in how many ways can one go from B to C? 
 - 52
 - 44
 - 64
@@ -185,7 +190,7 @@ Justification :
 - Now there are 5 places for 4 Americans.4 Americans can be seated in 5P4 ways. 
 - Required number = 4! X 5P4 = 4! X 5! 
 
-Question No: 14r
+Question No: 14
 In how many ways can the letters of the word ASSASSINATION be arranged so that all the S's are together??
 - 151200
 - 1080000
@@ -287,3 +292,4 @@ Justification :
 - Now if units place is filled with any of the four digits 1,3,5 or 7 , the thousands place can be filled in 6 ways( zero will be excluded) and the remaining two places can be filled in 8 × 7 = 56
 - So, the total number formed in this way 56×6×4= 1344
 - Hence, total numbers are 392+1344 =1736
+
